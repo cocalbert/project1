@@ -18,12 +18,12 @@ Introduction:
 # Data Cleaning
 We followed the below steps to clean the data:
 
-Looked into the data and checked the proportion of missing data.
-Checked the data type of each column and made changes accordingly.
-Dealt with missing values.
-Extracted more information from the dataset to get additional variables.
-Checked the unique values of columns and eliminated those that were not required.
-Cleaned the age column by replacing and/or removing values that were not numeric or useful.
+- Looked into the data and checked the proportion of missing data.
+- Checked the data type of each column and made changes accordingly.
+- Dealt with missing values.
+- Extracted more information from the dataset to get additional variables.
+- Checked the unique values of columns and eliminated those that were not required.
+- Cleaned the age column by replacing and/or removing values that were not numeric or useful.
 
 # Results
 The hypothesis 1 that there are more shark attacks in the United States than in Australia is true.
