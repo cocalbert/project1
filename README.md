@@ -1,20 +1,19 @@
 # Shark Attack Data Analysis
 Introduction
-This project analyzes shark attack data using Python and Pandas. The data is stored in a CSV file, and we will use the Pandas library to read and manipulate the data. We will perform some data cleaning, and then explore some hypotheses about the data.
+This project analyzes a dataset on shark attacks using pandas and numpy libraries in Python. The main goal of this project is to test three different hypotheses using the data. We will perform some data cleaning, and then explore some hypotheses about the data.
 
 # Libraries Used
-Pandas
-NumPy
-Matplotlib
-Data
-We use the shark attack data from the attacks.csv file. This dataset contains information on shark attacks that occurred from the mid-1500s to 2018. The dataset includes columns such as date, country, age, and activity, among others.
+- Pandas
+- NumPy
+- Matplotlib
+- Data: We use the shark attack data from the attacks.csv file. This dataset contains information on shark attacks that occurred from the mid-1500s to 2018. The dataset includes columns such as date, country, age, and activity, among others.
 
 # Hypotheses
 1.There are more shark attacks in the United States than in Australia.
 2.There were more fatal shark attacks on individuals under 18 years old than on individuals over 18 years old.
 3.Which age group has the most shark attack cases and fatalities.
 
-Data Cleaning
+# Data Cleaning
 We followed the below steps to clean the data:
 
 Looked into the data and checked the proportion of missing data.
