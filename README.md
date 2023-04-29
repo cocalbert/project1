@@ -1,6 +1,6 @@
 # Shark Attack Data Analysis
-Introduction
-This project analyzes a dataset on shark attacks using pandas and numpy libraries in Python. The main goal of this project is to test three different hypotheses using the data. We will perform some data cleaning, and then explore some hypotheses about the data.
+Introduction: 
+- This project analyzes a dataset on shark attacks using pandas and numpy libraries in Python. The main goal of this project is to test three different hypotheses using the data. We will perform some data cleaning, and then explore some hypotheses about the data.
 
 # Libraries Used
 - Pandas
