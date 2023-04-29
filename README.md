@@ -10,7 +10,9 @@ This project analyzes a dataset on shark attacks using pandas and numpy librarie
 
 # Hypotheses
 1.There are more shark attacks in the United States than in Australia.
+
 2.There were more fatal shark attacks on individuals under 18 years old than on individuals over 18 years old.
+
 3.Which age group has the most shark attack cases and fatalities.
 
 # Data Cleaning
@@ -25,7 +27,9 @@ Cleaned the age column by replacing and/or removing values that were not numeric
 
 # Results
 The hypothesis 1 that there are more shark attacks in the United States than in Australia is true.
+
 The hypothesis 2 that there were more fatal shark attacks on individuals under 18 years old than on individuals over 18 years old is inconclusive.
+
 The hypothesis 3 results are that the all age ranges are between 20% and 28% mortality versus total attacks.
 
 # Conclusion
